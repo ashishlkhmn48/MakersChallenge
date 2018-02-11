@@ -33,8 +33,18 @@
   <li>Concurrency Management</li>
 </ul>
 
-<h1>Glimpses of Maker's Challenge</h1>
 
+<h1>Technologies Used</h1>
+<ul>
+<li>ANDROID Libraries</li>
+<li>JAVA</li>
+<li>Firebase</li>
+<li>PHP</li>
+<li>MYSQL</li>
+</ul>
+
+
+<h1>Glimpses of Maker's Challenge</h1>
 <table>
   <tr>
     <th><img src = "images/1.png" width = "200"></th>
@@ -54,3 +64,14 @@ shivam : devanshi
 
 <h1>Backend Files of DIT SPHERE for Reference</h1>
 https://github.com/ashishlkhmn48/Makers_Challenge_Files
+
+<h1>References</h1>
+  <ul>
+  <li>https://docs.back4app.com</li>
+  <li>https://github.com/parse-community/Parse-SDK-Android</li>
+  <li>https://github.com/parse-community/parse-php-sdk</li>
+  <li>https://firebase.google.com/docs/android/setup</li>
+  <li>https://developer.android.com/reference/org/w3c/dom/Document.html</li>
+  <li>https://www.w3schools.com</li>
+  <li>https://stackoverflow.com</li>
+</ul>
